@@ -9,9 +9,9 @@ The classic numerical integration method is the Euler method. However, this has 
 ## Conclusion
 It can be concluded that the simulation works well. Firstly, it conserves the total energy very well. Secondly, the experimental kinetic energy is very close to the energy in equilibrium that is to be expected. Thirdly, there is a definite increase of the organization of the atom distances as you go from gas so solid, as is to be expected.  Lastly, the values for the pressures for each combination of temperature and density are of the same order of magnitude as the pressure values one would actually measure.
 
-# Run notebook (MDSArgon.ipynb)
+# Run notebook ([MDSArgon](MDSArgon.ipynb))
 - The jupyter notebook should be executed from top to bottom.
-- The first cell shows all the dependencies for the notebook and for [MDSLib](MDSLib.py), which contains all the functions we made for the simulation.
+- The first cell shows all the dependencies for the notebook and for [MDSlib](MDSlib.py), which contains all the functions we made for the simulation.
 - The second cell consist of the function used to simulate with the given conditions with all the sub functions it uses
 - Cell 2-5 contain the analysis of a gas state
 - Cell 6-9 contain the analysis of a liquid state
