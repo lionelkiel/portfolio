@@ -4,3 +4,16 @@ Each folder corresponds to a separate isolated project that I have worked on. So
 # Projects:
 - Molecular Dynamics Simulation  of Argon Atoms - Team project with Ole Moors, 2021
 
+# To add:
+- Bachelor Thesis
+- Introduction to ML bikes rented project
+- PCQI phase transition project
+- Applied Quantum Algorithms Project(s)
+- IDL projects
+- Reinforcement Learning projects
+
+# In progress:
+- Automated ML MSc Thesis
+- Automated ML project?
+- Advances in RL project
+- Epoch projects
