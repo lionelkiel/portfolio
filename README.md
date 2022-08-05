@@ -11,6 +11,7 @@ Each folder corresponds to a separate isolated project that I have worked on. So
 - Applied Quantum Algorithms Project(s)
 - IDL projects
 - Reinforcement Learning projects
+- Advances in Deep Learning Semantic Segmentation Project
 
 # In progress:
 - Automated ML MSc Thesis
