@@ -3,9 +3,11 @@ Each folder corresponds to a separate isolated project that I have worked on. So
 
 # Projects:
 - In-place correction of diffraction distortion in Low-Energy Electron Microscopy - Bachelor Thesis, 2020
-- Molecular Dynamics Simulation  of Argon Atoms - Team project with Ole Moors, 2021
+- Molecular Dynamics Simulation  of Argon Atoms - Team project with Ole Moors for the class Computational Physics, 2021
 
 # To add:
+- Computational Physics Assignment 2 (Monte Carlo simulation of the Ising model)
+- Computational Physics Assignment 3 (Quantum Monte Carlo)
 - Introduction to ML bikes rented project
 - PCQI phase transition project
 - Applied Quantum Algorithms Project(s)
