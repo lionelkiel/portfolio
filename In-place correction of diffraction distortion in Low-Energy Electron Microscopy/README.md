@@ -16,3 +16,6 @@ The method presented in this thesis allows to accurately measure angles and dist
 - The third cell contains the functions used for the various metrics used to check the quality of the correction
 - Cells 4-6 applies the correction on some data (this data is not given in the repository)
 - The rest of the cells analyze how well the correction does when only using certain subsets of the given data
+
+# [Figures](Figures)
+This file contains figures used in the report that are output by the notebook
