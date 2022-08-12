@@ -1,6 +1,6 @@
 # Extracts from [Report](Report.pdf)
 ## Introduction and Method
-To find out about the structure of some sample of interest one can use electron diffraction to image it. Electron diffraction is done in a Low-Energy Electron Microscope (LEEM for short). It is done by accelerating electrons towards the sample where they will scatter and create a diffraction image. The LEEM scheme used is shown here: ![Scheme](In-place correction of diffraction distortion in Low-Energy Electron Microscopy\Figures\Scheme.png)
+To find out about the structure of some sample of interest one can use electron diffraction to image it. Electron diffraction is done in a Low-Energy Electron Microscope (LEEM for short). It is done by accelerating electrons towards the sample where they will scatter and create a diffraction image. The LEEM scheme used is shown here: ![Scheme](In-place correction of diffraction distortion in Low-Energy Electron Microscopy/Figures/Scheme.png)
 
 Due to the complexity of this LEEM there is often a strong distortion in the diffraction images. This is problematic as it prevents the measuring of angles and distances. A method that corrects this distortion was successfully implemented in similar machines, however they require replacing of the sample. Replacing a sample causes the LEEM setup to be decalibrated. Therefore, an in-place correction of the diffraction distortion needs to be done.
 
