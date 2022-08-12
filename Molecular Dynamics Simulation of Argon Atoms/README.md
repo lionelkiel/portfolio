@@ -16,3 +16,6 @@ It can be concluded that the simulation works well. Firstly, it conserves the to
 - Cell 2-5 contain the analysis of a gas state
 - Cell 6-9 contain the analysis of a liquid state
 - Cell 10-13 contain the analysis of a solid state
+
+# [Figures](Figures)
+This file contains figures used in the report that are output by the notebook
