@@ -3,6 +3,7 @@ Each folder corresponds to a separate isolated project that I have worked on. So
 
 # Projects:
 - Molecular Dynamics Simulation  of Argon Atoms - Team project with Ole Moors, 2021
+- In-place correction of diffraction distortion in Low-Energy Electron Microscopy - Bachelor Thesis, 2020
 
 # To add:
 - Bachelor Thesis
